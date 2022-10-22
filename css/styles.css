@@ -1,0 +1,10 @@
+#btn-close-custom{
+    position: absolute;
+    right: 20px;
+    top:20px;
+}
+
+i [class="fa-"] {
+    min-width: 40px;
+
+}
